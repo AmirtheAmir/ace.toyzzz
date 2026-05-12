@@ -3,17 +3,17 @@
 
 @theme {
   /* sand – Dark and Light colors */
-  --sand-light-50: #EAEAEA;
-  --sand-light-100: #E6E6E6;
-  --sand-light-200: #E6E6E6;
-  --sand-light-300: #E0E0E0;
-  --sand-light-400: #D6D6D6;
-  --sand-light-500: #C2C2C2;
-  --sand-light-600: #ADADAD;
-  --sand-light-800: #7A7A7A;
-  --sand-dark-300: #1F1F1F;
-  --sand-dark-400: #292929;
-  --sand-dark-500: #3D3D3D;
+  --sand-light-50: #EEEBE7;
+  --sand-light-100: #EAE6E2;
+  --sand-light-200: #EAE6E2;
+  --sand-light-300: #E5E0DB;
+  --sand-light-400: #DDD7D0;
+  --sand-light-500: #CCC3B8;
+  --sand-light-600: #BAAEA0;
+  --sand-light-800: #8E7C67;
+  --sand-dark-300: #231F1A;
+  --sand-dark-400: #2F2922;
+  --sand-dark-500: #473E33;
   /* Brand Primary colors */
   --red-700: #D60E00;
   --red-500: #FF1200;
